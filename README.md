@@ -218,12 +218,6 @@ This repository contains the README that will be displayed on the main page of m
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" 
 /><br/>
 
-## GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
-
 ## Projects
 
 - [Project 1](link) - In Planning... 💡
